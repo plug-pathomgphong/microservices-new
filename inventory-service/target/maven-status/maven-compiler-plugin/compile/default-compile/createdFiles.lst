@@ -1,0 +1,7 @@
+com\pathomphong\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\pathomphong\inventoryservice\service\InventoryService.class
+com\pathomphong\inventoryservice\controller\InventoryController.class
+com\pathomphong\inventoryservice\InventoryServiceApplication.class
+com\pathomphong\inventoryservice\repository\InventoryRepository.class
+com\pathomphong\inventoryservice\model\Inventory.class
+com\pathomphong\inventoryservice\dto\InventoryResponse.class

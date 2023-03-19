@@ -1,0 +1,7 @@
+D:\Testing\java\microservices-new\product-service\src\main\java\com\pathomphong\productservice\ProductServiceApplication.java
+D:\Testing\java\microservices-new\product-service\src\main\java\com\pathomphong\productservice\dto\ProductRequest.java
+D:\Testing\java\microservices-new\product-service\src\main\java\com\pathomphong\productservice\dto\ProductResponse.java
+D:\Testing\java\microservices-new\product-service\src\main\java\com\pathomphong\productservice\controller\ProductController.java
+D:\Testing\java\microservices-new\product-service\src\main\java\com\pathomphong\productservice\service\ProductService.java
+D:\Testing\java\microservices-new\product-service\src\main\java\com\pathomphong\productservice\model\Product.java
+D:\Testing\java\microservices-new\product-service\src\main\java\com\pathomphong\productservice\repository\ProductRepository.java

@@ -1,0 +1,11 @@
+com\pathomphong\orderservice\model\Order.class
+com\pathomphong\orderservice\dto\InventoryResponse.class
+com\pathomphong\orderservice\dto\OrderRequest.class
+com\pathomphong\orderservice\service\OrderService.class
+com\pathomphong\orderservice\controller\OrderController.class
+com\pathomphong\orderservice\model\OrderLineItems.class
+com\pathomphong\orderservice\config\WebClientConfig.class
+com\pathomphong\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\pathomphong\orderservice\dto\OrdeLineItemsDto.class
+com\pathomphong\orderservice\OrderServiceApplication.class
+com\pathomphong\orderservice\repository\OrderRepository.class

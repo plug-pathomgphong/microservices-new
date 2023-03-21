@@ -1,6 +1,6 @@
-D:\Testing\java\microservices-new\inventory-service\src\main\java\com\pathomphong\inventoryservice\service\InventoryService.java
-D:\Testing\java\microservices-new\inventory-service\src\main\java\com\pathomphong\inventoryservice\model\Inventory.java
-D:\Testing\java\microservices-new\inventory-service\src\main\java\com\pathomphong\inventoryservice\dto\InventoryResponse.java
-D:\Testing\java\microservices-new\inventory-service\src\main\java\com\pathomphong\inventoryservice\controller\InventoryController.java
-D:\Testing\java\microservices-new\inventory-service\src\main\java\com\pathomphong\inventoryservice\repository\InventoryRepository.java
-D:\Testing\java\microservices-new\inventory-service\src\main\java\com\pathomphong\inventoryservice\InventoryServiceApplication.java
+D:\Testing\java-springboot\microservices-new\inventory-service\src\main\java\com\pathomphong\inventoryservice\model\Inventory.java
+D:\Testing\java-springboot\microservices-new\inventory-service\src\main\java\com\pathomphong\inventoryservice\service\InventoryService.java
+D:\Testing\java-springboot\microservices-new\inventory-service\src\main\java\com\pathomphong\inventoryservice\controller\InventoryController.java
+D:\Testing\java-springboot\microservices-new\inventory-service\src\main\java\com\pathomphong\inventoryservice\repository\InventoryRepository.java
+D:\Testing\java-springboot\microservices-new\inventory-service\src\main\java\com\pathomphong\inventoryservice\dto\InventoryResponse.java
+D:\Testing\java-springboot\microservices-new\inventory-service\src\main\java\com\pathomphong\inventoryservice\InventoryServiceApplication.java

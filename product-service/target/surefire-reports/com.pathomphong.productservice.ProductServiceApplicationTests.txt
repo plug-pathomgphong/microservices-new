@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.pathomphong.productservice.ProductServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.899 s - in com.pathomphong.productservice.ProductServiceApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.289 s - in com.pathomphong.productservice.ProductServiceApplicationTests
